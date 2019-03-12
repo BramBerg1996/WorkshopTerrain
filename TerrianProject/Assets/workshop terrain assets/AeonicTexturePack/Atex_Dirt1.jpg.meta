@@ -1,9 +1,17 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 5a086c72d80688146a3a55afcf58d09c
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
   serializedVersion: 7
+=======
+guid: bb75210b1ba9d784c8373d27291ff978
+TextureImporter:
+  fileIDToRecycleName: {}
+  externalObjects: {}
+  serializedVersion: 9
+>>>>>>> e10a2e977a1e506c43e4e433113403c9319acb13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
